@@ -4,6 +4,8 @@ class First {
 	
 		String name = "Elena";
 		name = name + "Kravec";
+		String name2 = "Petrov Ivan"
+		
 
 	}
 		
