@@ -6,11 +6,11 @@ class First {
 		name = name + "Kravec";
 		int i = 50;	
 		String name2 = "Petrov Ivan"
-	
-		i = i + 90
-		String newName = name + "All";
-		
-		boolean res = false;
-		boolean res2 = true;
+
+		i = i + 1;
+				
+		boolean re2 = false;
+		boolean res3 = false;
+		// very	
 		
 }
