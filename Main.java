@@ -10,5 +10,5 @@ class First {
 				
 		boolean re2 = false;
 		boolean res3 = false;
-	}
+		// very bad
 }
