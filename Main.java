@@ -9,5 +9,6 @@ class First {
 		
 		i = i + 25;
 		boolean res = false;
+		boolean res2 = true;
 		
 }
