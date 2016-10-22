@@ -7,6 +7,9 @@ class First {
 		int i = 50;	
 		String name2 = "Petrov Ivan"
 		
-		i = i + 25;
+		i = i + 90;
+		String newName = name + "All";
+
+
 		
 }
