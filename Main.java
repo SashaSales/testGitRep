@@ -10,7 +10,7 @@ class First {
 		i = i + 90
 		String newName = name + "All";
 		
-		boolean res = false;
+		boolean res = true;
 		boolean res2 = true;
 		
 }
