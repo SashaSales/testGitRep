@@ -8,5 +8,6 @@ class First {
 		String name2 = "Petrov Ivan"
 		
 		i = i + 25;
+		boolean res = false;
 		
 }
